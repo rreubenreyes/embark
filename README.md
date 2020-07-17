@@ -1,8 +1,4 @@
-# Embark
-
-An ambitious Vim theme.
-
-![screenshot](embark-screenshot.png)
+![embark logo](./Embark.svg)
 
 ## Getting Started
 
